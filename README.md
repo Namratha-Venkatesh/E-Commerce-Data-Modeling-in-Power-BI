@@ -1,4 +1,4 @@
-#E-Commerce Dtaa Modeling in Power BI
+# E-Commerce Data Modeling in Power BI
 
 ![image](https://github.com/Namratha-Venkatesh/E-Commerce-Data-Modeling-in-Power-BI/assets/130853849/36109652-dc6b-43a1-b054-7a1acb59d3a0)
 
